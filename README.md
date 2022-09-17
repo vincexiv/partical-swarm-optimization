@@ -1,0 +1,3 @@
+# Particle Swarm Optimization Algorithm
+
+This project simply involves solving the polynomial regression algorithm using particle swarm optimization algorithm. At the time I wrote it, I didn't know how to use git, so that's why it is only a single commit as at now even though I made way too many revisions. That said, this project was just a test for me to ensure that I understand how the particle swarm optimization algorithm works. That's why I chose a problem with converging solution; polynomial regression. By doing so, I could compare what I get from the particle swarm optimization algorithm and the actual expected solution
